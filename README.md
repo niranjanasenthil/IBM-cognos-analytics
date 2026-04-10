@@ -61,3 +61,9 @@ Delivery Performance
 Customer Insights
 
 Strategic Action Plan
+
+📸 Screenshots
+
+All outputs are available in the casestudy output folder.
+
+Done by Niranjana S
